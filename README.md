@@ -11,3 +11,7 @@ Answer: bisa, namun dengan konsekuensi diblacklist dari program google kedapanny
 ## Pada peminatan jaringan terdapat mata kuliah peminatan komputasi awan yang akan dijalankan di semester 6. Apakah bangkit path cloud computing (komputasi awan) dapat dikonversi ke matkul pilihan itu?
 
 Answer (not confirmed): bisa jadi bisa dengan 15 sks mbkm dan 3 komputasi awan
+
+## Apakah status rekomendasi memang belum di seleksi?
+
+Answer: benar, menurut bapak nasrullah masih menunggu koordinasi dengan prodi. nantinya seleksi berkas akan di tanggungkan ke pihak prodi.
